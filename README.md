@@ -1,6 +1,6 @@
 # Open Politics
 
-A ideia é ter uma IA que ajude a traduzir a política e quem sabe, ser uma política.
+A ideia é ter uma IA que ajude a traduzir a política e quem sabe, ser um agente político.
 
 - Iniciei pegando as PECs e traduzindo ela para uma linguagem acessível e resumida.
 
